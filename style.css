@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+
+.body{
+    width: auto;
+    height: auto;
+}
+
+.arquivopdf{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 700px;
+    height: 1000px;
+}
